@@ -5,7 +5,7 @@
  * Date: 13/02/2018
  * Time: 11:09
  */
-echo "<table border=1>";
+echo "<table border=10>";
 for ($i=1;$i<=10;$i++)
 {
 	echo "<tr>";
