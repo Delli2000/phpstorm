@@ -1,6 +1,6 @@
 <html>
-<title>  <center>PROVA NUMERO</center></title>
-
+<center> PROVA NUMERO </center>
+<form action="" method="get"></form>
 <br>ciao mondo</br>
 <br><br>
 </html>
