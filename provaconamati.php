@@ -1,3 +1,9 @@
+<html>
+<title>  <center>PROVA NUMERO</center></title>
+
+<br>ciao mondo</br>
+<br><br>
+</html>
 <?php
 /**
  * Created by PhpStorm.
@@ -26,7 +32,4 @@ for ($i=1;$i<=10;$i++)
 }
 echo "</table>";
 ?>
-<html>
-<title > PROVA NUMERO !</title>
-<br>ciao monso</br>
-</html>
+
